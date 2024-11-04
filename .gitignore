@@ -1,0 +1,16 @@
+*.xlsx
+*.csv
+cache.*/
+database/
+example-projects/
+images/
+logs/
+online-projects-backup/
+projects-recovery/
+updater/
+*.zip
+*.json
+*.txt
+*.epro
+*.pdf
+*_backup/
